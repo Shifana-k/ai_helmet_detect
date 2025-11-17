@@ -65,7 +65,7 @@ def recognize_face(frame):
                 best_match = name
         
         # Threshold for recognition (increased for better matching)
-        if min_distance < 10.0:  # Adjusted based on your test results
+        if min_distance < 10.0:  # Adjusted based on test results
             return best_match
             
     except Exception as e:
