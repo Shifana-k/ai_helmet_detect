@@ -5,8 +5,5 @@ face_encodings.pkl
 *.pyc
 __pycache__/
 *.log
-capture_faces.py
-encode_faces.py
-manage_faces.py
-test_encodings.py
+
 
